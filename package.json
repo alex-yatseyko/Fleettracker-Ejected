@@ -15,7 +15,6 @@
     "axios": "^0.19.2",
     "expo": "~36.0.0",
     "expo-device": "^2.1.0",
-    "expo-splash-screen": "^0.5.0",
     "fs": "0.0.1-security",
     "leaflet": "^1.6.0",
     "lodash.isequal": "^4.5.0",

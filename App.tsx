@@ -16,7 +16,6 @@ import { useAppContext } from './services/utility/AppContext.hook'
 
 import { Routes } from './navigation/Routes'
 
-import * as SplashScreen from 'expo-splash-screen';
 import { isAvailable } from 'expo/build/AR';
 import NavigationService from './services/utility/NavigationService';
 
@@ -36,13 +35,11 @@ export default function App(props) {
       try {
         const token = await getToken()
         token && NavigationService.navigate('Bottom', null)
-        SplashScreen.preventAutoHide();
       } catch (e) {
         console.log('Error: ', e)
         console.warn(e);
       } finally {
         setTimeout(() => {
-          SplashScreen.hide();
         }, 1000);
       }
     }
