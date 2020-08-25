@@ -1,0 +1,87 @@
+{
+  "_from": "react-native-webview-leaflet@^5.0.2",
+  "_id": "react-native-webview-leaflet@5.0.2",
+  "_inBundle": false,
+  "_integrity": "sha512-jdWT2ViyFC3IA/Fpnxg70V60qMouUCLIlmEyVWWD/Qc82gojfRrMq+HnA+tRnc4rloWjERVkjRWyGwpl66aQBQ==",
+  "_location": "/react-native-webview-leaflet",
+  "_phantomChildren": {
+    "blueimp-md5": "2.13.0",
+    "loose-envify": "1.4.0",
+    "object-assign": "4.1.1",
+    "path-browserify": "1.0.1",
+    "prop-types": "15.7.2",
+    "url-parse": "1.4.7"
+  },
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "react-native-webview-leaflet@^5.0.2",
+    "name": "react-native-webview-leaflet",
+    "escapedName": "react-native-webview-leaflet",
+    "rawSpec": "^5.0.2",
+    "saveSpec": null,
+    "fetchSpec": "^5.0.2"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/react-native-webview-leaflet/-/react-native-webview-leaflet-5.0.2.tgz",
+  "_shasum": "c358e365b08f690f41872d982cc9cd5d7f684b2e",
+  "_spec": "react-native-webview-leaflet@^5.0.2",
+  "_where": "D:\\Work\\ROBOTA\\FleetTracker",
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/reggie3/react-native-webview-leaflet/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "expo-asset": "^7.0.0",
+    "expo-asset-utils": "^1.2.0",
+    "expo-file-system": "^8.0.0",
+    "leaflet": "^1.5.1",
+    "lodash.isequal": "^4.5.0",
+    "react-dom": "^16.10.2",
+    "react-leaflet": "^2.6.1",
+    "react-native-webview": "^8.0.3"
+  },
+  "deprecated": false,
+  "description": "A React Native component that uses a React Native WebView to provide a Leaflet map.",
+  "devDependencies": {
+    "@babel/core": "^7.0.0-0",
+    "@babel/plugin-proposal-class-properties": "^7.5.5",
+    "@babel/preset-react": "^7.6.3",
+    "@types/node": "^13.1.6",
+    "@types/react-leaflet": "^2.4.0",
+    "babel-plugin-transform-class-properties": "^6.24.1",
+    "gulp": "4",
+    "gulp-run": "^1.7.1",
+    "parcel-bundler": "^1.12.4",
+    "parcel-plugin-inliner": "^1.0.10",
+    "typescript": "^3.6.4"
+  },
+  "homepage": "https://github.com/reggie3/react-native-webview-leaflet#readme",
+  "keywords": [
+    "react-native",
+    "leaflet",
+    "expo",
+    "webview"
+  ],
+  "license": "ISC",
+  "main": "index.ts",
+  "name": "react-native-webview-leaflet",
+  "peerDependencies": {
+    "react": "^16.9.0",
+    "react-leaflet": "^2.6.1",
+    "react-native": "^0.61.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/reggie3/react-native-webview-leaflet.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "typings": "index.d.ts",
+  "version": "5.0.2"
+}

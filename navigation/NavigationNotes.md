@@ -1,0 +1,4 @@
+- App Stack navigator
+    - App tab navigator
+        - Map stack
+        - List stack

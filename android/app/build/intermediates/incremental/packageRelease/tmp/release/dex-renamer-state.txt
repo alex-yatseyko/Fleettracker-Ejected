@@ -1,0 +1,7 @@
+#Mon Aug 17 18:51:10 EEST 2020
+base.0=D\:\\Work\\ROBOTA\\FleetTracker\\android\\app\\build\\intermediates\\transforms\\dexMerger\\release\\0
+path.1=classes2.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=D\:\\Work\\ROBOTA\\FleetTracker\\android\\app\\build\\intermediates\\transforms\\dexMerger\\release\\0
